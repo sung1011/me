@@ -12,4 +12,8 @@
 
 ### [友情 & 爱情](main/friendship-and-love.md) todo
 
+### [同事 & 友情](main/colleague-and-friendship.md) todo
+
+### [亲子](main/parentage.md) todo
+
 ### [心态的正反面](main/mentally-sides.md) todo
