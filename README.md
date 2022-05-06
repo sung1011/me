@@ -32,6 +32,8 @@
 
 #### [小王子](_.md) todo
 
+#### [老人与海](_.md) todo
+
 #### [你当像鸟飞往你的山](main/educated.md)
 
 #### [认知与设计 (designing with the mind in mind)](main/designing-with-the-mind-in-mind.md)
