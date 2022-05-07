@@ -1,28 +1,38 @@
 # me
 
-## ESSAY
+## main
 
-### [树](main/the-tree.md)
+### ESSAY
 
-### [抑郁](main/depression.md)
+#### [树](main/the-tree.md)
 
-### [爱情 & 婚姻](main/love-and-marriage.md)
+#### [抑郁](main/depression.md)
 
-### [消费观](main/consumption-concept.md) todo
+#### [爱情 & 婚姻](main/love-and-marriage.md)
 
-### [友情 & 爱情](main/friendship-and-love.md) todo
+#### [消费观](main/consumption-concept.md) todo
 
-### [同事 & 友情](main/colleague-and-friendship.md) todo
+#### [友情 & 爱情](main/friendship-and-love.md) todo
 
-### [亲情](main/parentage.md) todo
+#### [同事 & 友情](main/colleague-and-friendship.md) todo
 
-### [心态的正反面](main/mentally-sides.md) todo
+#### [亲情](main/parentage.md) todo
 
-### [聊天](main/chat.md) todo
+#### [心态的正反面](main/mentally-sides.md) todo
 
-## NOTE
+#### [聊天](main/chat.md) todo
 
-### book
+### BUSINESS
+
+#### [lululemon](main/_.md) todo
+
+#### [goolge](main/_.md) todo
+
+### BIOGRAPHY
+
+#### [马斯克](main/_.md) todo
+
+### NOTE
 
 #### [厌女](main/misogyny.md)
 
@@ -46,42 +56,42 @@
 
 #### [被讨厌的勇气](main/courage-to-be-disliked.md)
 
-### other
+### OTHER-NOTE
 
 #### [张潇雨](main/zhangxiaoyu.md)
 
 #### [技术](https://github.com/sung1011/note)
 
-## COMMON (TODO 知识细分)
+### COMMON (TODO 知识细分)
 
-### [咖啡](main/coffee.md)
+#### [咖啡](main/coffee.md)
 
-### [金融](main/finance.md)
+#### [金融](main/finance.md)
 
-### [可口可乐 vs 百事可乐](main/coke.md)
+#### [可口可乐 vs 百事可乐](main/coke.md)
 
-### [羽毛球](main/badminton.md)
+#### [羽毛球](main/badminton.md)
 
-### [辐射](main/radiation.md)
+#### [辐射](main/radiation.md)
 
-### [新世界福音战士(EVA)](main/eva.md)
+#### [新世界福音战士(EVA)](main/eva.md)
 
-### [认知偏误](main/cognitive-bias.md)
+#### [认知偏误](main/cognitive-bias.md)
 
-### [数据指标](main/data-indicator.md)
+#### [数据指标](main/data-indicator.md)
 
-### [睡眠](main/sleep.md)
+#### [睡眠](main/sleep.md)
 
-### [小说](main/novel.md)
+#### [小说](main/novel.md)
 
-### [两性](main/sex.md)
+#### [两性](main/sex.md)
 
-### [钙](main/calcium.md)
+#### [钙](main/calcium.md)
 
-### [新能源汽车](main/new-energy-vehicle.md)
+#### [新能源汽车](main/new-energy-vehicle.md)
 
-### [比特币](_.md) todo
+#### [比特币](_.md) todo
 
-### [数字人民币](main/e-cny.md) todo
+#### [数字人民币](main/e-cny.md) todo
 
-### [认知](main/perceive.md) todo
+#### [认知](main/perceive.md) todo
