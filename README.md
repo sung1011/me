@@ -1,8 +1,8 @@
 # me
 
-## main
+## Main
 
-### ESSAY
+### THINKING
 
 #### [树](main/the-tree.md)
 
@@ -20,6 +20,8 @@
 
 #### [聊天](main/chat.md)
 
+---
+
 ### BUSINESS
 
 #### [可口可乐 vs 百事可乐](main/coke.md)
@@ -32,9 +34,13 @@
 
 #### [兼并收购](main/mergers-and-acquisitions.md) todo
 
+---
+
 ### BIOGRAPHY
 
 #### [埃隆 马斯克](main/elon-musk.md) todo
+
+---
 
 ### NOTE
 
@@ -60,11 +66,15 @@
 
 #### [被讨厌的勇气](main/courage-to-be-disliked.md)
 
+---
+
 ### IDEOLOGY
 
 #### [认知偏误](main/cognitive-bias.md)
 
 #### [张潇雨](main/zhangxiaoyu.md)
+
+---
 
 ### WIKI
 
@@ -78,6 +88,8 @@
 
 #### [数据指标 - 零售业(线下)](main/data-indicator-retail-offline.md)
 
+---
+
 ### COMMON (TODO 待细分)
 
 #### [咖啡](main/coffee.md)
@@ -90,7 +102,7 @@
 
 #### [小说](main/novel.md)
 
-#### [两性](main/sex.md)
+#### [自信](main/confident.md)
 
 #### [补钙](main/calcium.md)
 
