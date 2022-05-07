@@ -18,8 +18,6 @@
 
 #### [亲情](main/parentage.md) todo
 
-#### [聊天](main/chat.md)
-
 ---
 
 ### BUSINESS
@@ -30,7 +28,7 @@
 
 #### [Goolge](main/_.md) todo
 
-#### [零售业](main/retail.md)
+#### [零售业](main/retail.md) todo
 
 #### [兼并收购](main/mergers-and-acquisitions.md) todo
 
@@ -88,6 +86,8 @@
 
 #### [数据指标 - 零售业(线下)](main/data-indicator-retail-offline.md)
 
+#### [聊天](main/chat.md)
+
 ---
 
 ### COMMON (TODO 待细分)
@@ -98,9 +98,9 @@
 
 #### [新世界福音战士(EVA)](main/eva.md)
 
-#### [睡眠](main/sleep.md)
+#### [睡眠](main/sleep.md) todo
 
-#### [小说](main/novel.md)
+#### [小说](main/novel.md) todo
 
 #### [自信](main/confident.md)
 
