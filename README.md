@@ -24,7 +24,7 @@
 
 #### [可口可乐 vs 百事可乐](main/coke.md)
 
-#### [Lululemon](main/lululemon.md) todo
+#### [Lululemon](main/lululemon.md)
 
 #### [Goolge](main/_.md) todo
 
