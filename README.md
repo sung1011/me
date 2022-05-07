@@ -60,9 +60,9 @@
 
 ### IDEOLOGY
 
-#### [张潇雨](main/zhangxiaoyu.md)
-
 #### [认知偏误](main/cognitive-bias.md)
+
+#### [张潇雨](main/zhangxiaoyu.md)
 
 ### WIKI
 
