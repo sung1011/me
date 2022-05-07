@@ -18,19 +18,21 @@
 
 #### [亲情](main/parentage.md) todo
 
-#### [心态的正反面](main/mentally-sides.md) todo
-
-#### [聊天](main/chat.md) todo
+#### [聊天](main/chat.md)
 
 ### BUSINESS
 
-#### [lululemon](main/_.md) todo
+#### [可口可乐 vs 百事可乐](main/coke.md)
 
-#### [goolge](main/_.md) todo
+#### [Lululemon](main/lululemon.md) todo
+
+#### [Goolge](main/_.md) todo
+
+#### [零售业](main/retail.md)
 
 ### BIOGRAPHY
 
-#### [马斯克](main/_.md) todo
+#### [埃隆 马斯克](main/elon-musk.md) todo
 
 ### NOTE
 
@@ -56,29 +58,31 @@
 
 #### [被讨厌的勇气](main/courage-to-be-disliked.md)
 
-### OTHER-NOTE
+### IDEOLOGY
 
 #### [张潇雨](main/zhangxiaoyu.md)
 
+#### [认知偏误](main/cognitive-bias.md)
+
+### WIKI
+
 #### [技术](https://github.com/sung1011/note)
-
-### COMMON (TODO 知识细分)
-
-#### [咖啡](main/coffee.md)
 
 #### [金融](main/finance.md)
 
-#### [可口可乐 vs 百事可乐](main/coke.md)
+#### [辐射](main/radiation.md)
+
+#### [数据指标 - 互联网](main/data-indicator-internet.md)
+
+#### [数据指标 - 零售业(线下)](main/data-indicator-retail-offline.md)
+
+### COMMON (TODO 待细分)
+
+#### [咖啡](main/coffee.md)
 
 #### [羽毛球](main/badminton.md)
 
-#### [辐射](main/radiation.md)
-
 #### [新世界福音战士(EVA)](main/eva.md)
-
-#### [认知偏误](main/cognitive-bias.md)
-
-#### [数据指标](main/data-indicator.md)
 
 #### [睡眠](main/sleep.md)
 
@@ -86,7 +90,7 @@
 
 #### [两性](main/sex.md)
 
-#### [钙](main/calcium.md)
+#### [补钙](main/calcium.md)
 
 #### [新能源汽车](main/new-energy-vehicle.md)
 

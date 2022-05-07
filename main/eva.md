@@ -18,5 +18,5 @@ Neon Genesis Evangelion
 
 ## ref
 
-<https://www.zhihu.com/question/20566787>
-<https://www.sohu.com/a/283134131_708882>
+- <https://www.zhihu.com/question/20566787>
+- <https://www.sohu.com/a/283134131_708882>
