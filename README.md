@@ -26,11 +26,11 @@
 
 #### [Lululemon](main/lululemon.md)
 
+#### [兼并收购](main/takeover.md)
+
 #### [Goolge](main/_.md) todo
 
 #### [零售业](main/retail.md) todo
-
-#### [兼并收购](main/mergers-and-acquisitions.md) todo
 
 ---
 
@@ -76,6 +76,8 @@
 
 #### [自信](main/confident.md)
 
+#### [三观](main/.md) todo
+
 #### [认知](main/perceive.md) todo
 
 ---
@@ -96,6 +98,10 @@
 
 #### [新能源汽车](main/new-energy-vehicle.md)
 
+#### [补钙](main/calcium.md)
+
+#### [量子力学](main/quantum-mechanics.md)
+
 #### [聊天](main/chat.md)
 
 #### [比特币](_.md) todo
@@ -104,8 +110,6 @@
 
 #### [睡眠](main/sleep.md) todo
 
-#### [补钙](main/calcium.md)
-
 ---
 
 ### SKILL
@@ -113,4 +117,3 @@
 #### [羽毛球](main/badminton.md)
 
 #### [小说](main/novel.md) todo
-
