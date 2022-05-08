@@ -64,6 +64,8 @@
 
 #### [被讨厌的勇气](main/courage-to-be-disliked.md)
 
+#### [EVA](main/eva.md)
+
 ---
 
 ### IDEOLOGY
@@ -72,9 +74,15 @@
 
 #### [张潇雨](main/zhangxiaoyu.md)
 
+#### [自信](main/confident.md)
+
+#### [认知](main/perceive.md) todo
+
 ---
 
 ### WIKI
+
+#### [咖啡](main/coffee.md)
 
 #### [技术](https://github.com/sung1011/note)
 
@@ -86,30 +94,23 @@
 
 #### [数据指标 - 零售业(线下)](main/data-indicator-retail-offline.md)
 
-#### [聊天](main/chat.md)
-
----
-
-### COMMON (TODO 待细分)
-
-#### [咖啡](main/coffee.md)
-
-#### [羽毛球](main/badminton.md)
-
-#### [新世界福音战士(EVA)](main/eva.md)
-
-#### [睡眠](main/sleep.md) todo
-
-#### [小说](main/novel.md) todo
-
-#### [自信](main/confident.md)
-
-#### [补钙](main/calcium.md)
-
 #### [新能源汽车](main/new-energy-vehicle.md)
+
+#### [聊天](main/chat.md)
 
 #### [比特币](_.md) todo
 
 #### [数字人民币](main/e-cny.md) todo
 
-#### [认知](main/perceive.md) todo
+#### [睡眠](main/sleep.md) todo
+
+#### [补钙](main/calcium.md)
+
+---
+
+### SKILL
+
+#### [羽毛球](main/badminton.md)
+
+#### [小说](main/novel.md) todo
+
