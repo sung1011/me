@@ -28,8 +28,6 @@
 
 #### [兼并收购](main/takeover.md)
 
-#### [Goolge](main/_.md) todo
-
 #### [零售业](main/retail.md) todo
 
 ---
@@ -37,6 +35,8 @@
 ### BIOGRAPHY
 
 #### [埃隆 马斯克](main/elon-musk.md) todo
+
+#### [巴菲特](main/_.md) todo
 
 ---
 
