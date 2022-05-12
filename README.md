@@ -40,7 +40,24 @@
 
 ---
 
-### NOTE
+### IDEOLOGY
+
+#### [认知偏误](main/cognitive-bias.md)
+
+#### [张潇雨](main/zhangxiaoyu.md)
+
+#### [自信](main/confident.md)
+
+#### [三观](main/.md) todo
+
+#### [认知](main/perceive.md) todo
+
+#### [MBTI](main/mbti.md)
+
+---
+
+
+### BOOK
 
 #### [厌女](main/misogyny.md)
 
@@ -65,20 +82,6 @@
 #### [被讨厌的勇气](main/courage-to-be-disliked.md)
 
 #### [EVA](main/eva.md)
-
----
-
-### IDEOLOGY
-
-#### [认知偏误](main/cognitive-bias.md)
-
-#### [张潇雨](main/zhangxiaoyu.md)
-
-#### [自信](main/confident.md)
-
-#### [三观](main/.md) todo
-
-#### [认知](main/perceive.md) todo
 
 ---
 
