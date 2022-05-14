@@ -42,17 +42,21 @@
 
 ### IDEOLOGY
 
-#### [认知偏误](main/cognitive-bias.md)
+#### [认知](main/cognitive.md)
 
 #### [张潇雨](main/zhangxiaoyu.md)
 
 #### [自信](main/confident.md)
 
+#### [MBTI](main/mbti.md)
+
 #### [三观](main/.md) todo
 
 #### [认知](main/perceive.md) todo
 
-#### [MBTI](main/mbti.md)
+#### [多巴胺](main/.md) todo
+
+#### [死亡](main/death.md) todo
 
 ---
 
@@ -75,6 +79,8 @@
 
 #### [福尔摩斯探案集](_) todo
 
+#### [傲慢与偏见](_) todo
+
 #### [约翰克里斯朵夫](_) todo
 
 #### [心理学与生活](main/psychology-and-life.md) todo
@@ -82,6 +88,16 @@
 #### [被讨厌的勇气](main/courage-to-be-disliked.md)
 
 #### [EVA](main/eva.md)
+
+---
+
+### biology
+
+#### [补钙](main/calcium.md)
+
+#### [遗传](main/genetic.md)
+
+#### [睡眠](main/sleep.md) todo
 
 ---
 
@@ -101,17 +117,13 @@
 
 #### [新能源汽车](main/new-energy-vehicle.md)
 
-#### [补钙](main/calcium.md)
-
 #### [量子力学](main/quantum-mechanics.md)
 
-#### [聊天](main/chat.md)
+#### [自动驾驶](main/.md)
 
 #### [比特币](_.md) todo
 
 #### [数字人民币](main/e-cny.md) todo
-
-#### [睡眠](main/sleep.md) todo
 
 ---
 
@@ -119,4 +131,8 @@
 
 #### [羽毛球](main/badminton.md)
 
+#### [聊天](main/chat.md)
+
 #### [小说](main/novel.md) todo
+
+#### [健身](main/_.md) todo
