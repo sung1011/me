@@ -5,7 +5,7 @@
 
 ## 维度
 
-### 获取能量的方式
+### 获取能量的方式 mind
 
 ```bash
 - 刚刚经历劳累的一周, 你打算放松一下 ( E 出去high / I 自己在家玩 )  
@@ -30,7 +30,11 @@
 - 喜欢安静独处 刷剧看书游戏
 - 倾向于想好了再说, 也很能说
 
-### 获取信息的方式
+#### ref
+
+- <https://www.16personalities.com/articles/mind-introverted-vs-extraverted>
+
+### 获取信息的方式 energy
 
 ```bash
 - 吵架时主要论据 ( S 抓细节 / N 抓感受 )
@@ -53,7 +57,11 @@
 
 > `性别分布` S女生多 : N男生多
 
-### 决策方式
+#### ref
+
+- <https://www.16personalities.com/articles/energy-intuitive-vs-observant>
+
+### 决策方式 nature
 
 ```bash
 - 好友遇到情感问题想你倾诉, 你通常先 ( T 尝试解决问题 / F 安慰 )
@@ -73,7 +81,11 @@
 - 厌恶冲突, 注重人与人之间的和谐
 - 体恤 关怀 共情
 
-### 行事方式
+#### ref
+
+- <https://www.16personalities.com/articles/nature-thinking-vs-feeling>
+
+### 行事方式 tictics
 
 ```bash
 - 做事之前倾向于 ( J 提前规划 / P 随机应变 )
@@ -93,49 +105,9 @@
 - 走一步看一步, 随性洒脱
 - 说走就走的旅行
 
-## 分布
+#### ref
 
-### 人数分布 (由多到少)
-
-1. ISTJ
-2. ISFJ
-3. ESFJ
-4. ESTJ
-5. ISFP
-6. ESFP
-7. ENFP
-8. ISTP
-9. ESTP
-10. INFP
-11. INTP
-12. ENTP
-13. ENTJ
-14. ENFJ
-15. INTJ
-16. INFJ
-
-## 薪资 (由高到低)
-
-1. ENTJ
-2. ESTJ
-3. ESFJ
-4. INTJ
-5. ENFJ
-6. ISTJ
-7. ESTP
-8. ISTP
-9. ENFP
-10. INTP
-11. INFJ
-12. ISFP
-13. ISFJ
-14. ESFP
-15. ENTP
-16. INFP
-
-> 优势性格 E 外向 + J 计划性
-
-> 劣势性格 P 灵活
+- <https://www.16personalities.com/articles/tactics-judging-vs-prospecting>
 
 ## 性格
 
@@ -235,6 +207,50 @@
 
       你习惯根据情感进行判断，在情感思维的驱使下，你的兴趣和精力主要集中在人的身上。因此，在与他人相处时，你会非常的亲切而友善、周到而得体，非常善于跟人打交道。同时，你看人也很准，总能够做出准确到位的评价。这也体现出你在生活中所扮演的角色——外交家，这让你有很多朋友，但是如果让你处理原则性问题时，可能会让你犹豫不决，十分的为难。
 
+## 分布
+
+### 人数分布 (由多到少)
+
+1. ISTJ
+2. ISFJ
+3. ESFJ
+4. ESTJ
+5. ISFP
+6. ESFP
+7. ENFP
+8. ISTP
+9. ESTP
+10. INFP
+11. INTP
+12. ENTP
+13. ENTJ
+14. ENFJ
+15. INTJ
+16. INFJ
+
+## 薪资 (由高到低)
+
+1. ENTJ
+2. ESTJ
+3. ESFJ
+4. INTJ
+5. ENFJ
+6. ISTJ
+7. ESTP
+8. ISTP
+9. ENFP
+10. INTP
+11. INFJ
+12. ISFP
+13. ISFJ
+14. ESFP
+15. ENTP
+16. INFP
+
+> 优势性格 E 外向 + J 计划性
+
+> 劣势性格 P 灵活
+
 ## ref
 
-- <https://www.16personalities.com/ch>
+- <https://www.16personalities.com>

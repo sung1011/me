@@ -16,6 +16,8 @@
 
 #### [同事 & 友情](main/colleague-and-friendship.md) todo
 
+#### [内向 & 外向](main/mind.md) todo
+
 #### [亲情](main/parentage.md) todo
 
 ---
@@ -32,31 +34,19 @@
 
 ---
 
-### BIOGRAPHY
-
-#### [埃隆 马斯克](main/elon-musk.md) todo
-
-#### [巴菲特](main/_.md) todo
-
----
-
 ### IDEOLOGY
 
 #### [认知](main/cognitive.md)
-
-#### [张潇雨](main/zhangxiaoyu.md)
 
 #### [自信](main/confident.md)
 
 #### [MBTI](main/mbti.md)
 
-#### [三观](main/.md) todo
-
-#### [认知](main/perceive.md) todo
+#### [死亡](main/death.md)
 
 #### [多巴胺](main/.md) todo
 
-#### [死亡](main/death.md) todo
+#### [记忆](main/memory.md) todo
 
 ---
 
@@ -91,7 +81,7 @@
 
 ---
 
-### biology
+### BIOLOGY
 
 #### [补钙](main/calcium.md)
 
@@ -101,29 +91,53 @@
 
 ---
 
+### BIOGRAPHY
+
+#### [尼古拉.特斯拉 Nikola-Tesla](main/nikola-tesla.md) todo
+
+#### [埃隆.马斯克 Elon-Musk](main/elon-musk.md) todo
+
+#### [沃伦.巴菲特 Warren-Edward-Buffett](main/_.md) todo
+
+#### [张潇雨](main/zhangxiaoyu.md)
+
+---
+
 ### WIKI
 
 #### [咖啡](main/coffee.md)
 
-#### [技术](https://github.com/sung1011/note)
+#### [编程](https://github.com/sung1011/note)
 
 #### [金融](main/finance.md)
 
-#### [辐射](main/radiation.md)
+#### [新能源汽车](main/new-energy-vehicle.md)
+
+#### [自动驾驶](main/.md) todo
+
+#### [比特币](_.md) todo
+
+#### [数字人民币](main/e-cny.md) todo
+
+#### [缩写 - 互联网](main/acronym-internet.md)
 
 #### [数据指标 - 互联网](main/data-indicator-internet.md)
 
 #### [数据指标 - 零售业(线下)](main/data-indicator-retail-offline.md)
 
-#### [新能源汽车](main/new-energy-vehicle.md)
+---
+
+### SCIENCE
 
 #### [量子力学](main/quantum-mechanics.md)
 
-#### [自动驾驶](main/.md)
+#### [辐射](main/radiation.md)
 
-#### [比特币](_.md) todo
+---
 
-#### [数字人民币](main/e-cny.md) todo
+### DIGIT
+
+#### [369](main/369.md)
 
 ---
 
@@ -134,5 +148,3 @@
 #### [聊天](main/chat.md)
 
 #### [小说](main/novel.md) todo
-
-#### [健身](main/_.md) todo
