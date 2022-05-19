@@ -42,8 +42,6 @@
 
 #### [MBTI](main/mbti.md)
 
-#### [死亡](main/death.md)
-
 #### [多巴胺](main/.md) todo
 
 #### [记忆](main/memory.md) todo
@@ -85,9 +83,17 @@
 
 #### [补钙](main/calcium.md)
 
+#### [死亡](main/death.md)
+
 #### [遗传](main/genetic.md)
 
+#### [癌](main/cancer.md)
+
 #### [睡眠](main/sleep.md) todo
+
+#### [时间](main/time.md) todo
+
+#### [毛病](main/faulty.md)
 
 ---
 
