@@ -46,6 +46,8 @@
 
 #### [记忆](main/memory.md) todo
 
+#### [防御机制](main/defence-mechanism.md)
+
 ---
 
 
@@ -138,6 +140,8 @@
 #### [量子力学](main/quantum-mechanics.md)
 
 #### [辐射](main/radiation.md)
+
+#### [元素](main/elements.md)
 
 ---
 
