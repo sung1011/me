@@ -6,9 +6,9 @@
 
 #### [树](main/the-tree.md)
 
-#### [抑郁](main/depression.md)
-
 #### [爱情 & 婚姻](main/love-and-marriage.md)
+
+#### [抑郁](main/depression.md)
 
 #### [消费观](main/consumption-concept.md) todo
 
@@ -42,14 +42,13 @@
 
 #### [MBTI](main/mbti.md)
 
-#### [多巴胺](main/.md) todo
+<!-- #### [多巴胺](main/dopamine.md) todo -->
 
-#### [记忆](main/memory.md) todo
+<!-- #### [记忆](main/memory.md) todo -->
 
 #### [防御机制](main/defence-mechanism.md)
 
 ---
-
 
 ### BOOK
 
@@ -95,9 +94,9 @@
 
 #### [睡眠](main/sleep.md)
 
-#### [时间](main/time.md)
+#### [心理创伤](main/faulty-trauma.md)
 
-#### [毛病](main/faulty.md)
+#### [病毒](main/virus.md)
 
 ---
 
@@ -109,15 +108,19 @@
 
 ### BIOGRAPHY
 
-#### [尼古拉.特斯拉 Nikola-Tesla](main/nikola-tesla.md) todo
+#### [莱昂纳多.达芬奇](Leonardo-da-Vinci.md)
 
-#### [埃隆.马斯克 Elon-Musk](main/elon-musk.md) todo
+<!-- #### [尼古拉.特斯拉 Nikola-Tesla](main/nikola-tesla.md) todo -->
 
-#### [沃伦.巴菲特 Warren-Edward-Buffett](main/_.md) todo
+<!-- #### [埃隆.马斯克 Elon-Musk](main/elon-musk.md) todo -->
 
-#### [张潇雨](main/zhangxiaoyu.md)
+<!-- #### [沃伦.巴菲特 Warren-Edward-Buffett](main/_.md) todo -->
 
----
+<!-- #### [张潇雨](main/zhangxiaoyu.md) -->
+
+<!-- #### [我](me.md) -->
+
+<!-- --- -->
 
 ### WIKI
 
@@ -151,9 +154,13 @@
 
 #### [元素](main/elements.md)
 
+#### [相对论](main/theory-of-relativity.md)
+
+#### [时间](main/time.md)
+
 ---
 
-### DIGIT
+### FAITH
 
 #### [369](main/369.md)
 
