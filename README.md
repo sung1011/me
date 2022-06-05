@@ -10,15 +10,15 @@
 
 #### [抑郁](main/depression.md)
 
-#### [消费观](main/consumption-concept.md) todo
+<!-- #### [消费观](main/consumption-concept.md) todo -->
 
-#### [友情 & 爱情](main/friendship-and-love.md) todo
+<!-- #### [友情 & 爱情](main/friendship-and-love.md) todo -->
 
-#### [同事 & 友情](main/colleague-and-friendship.md) todo
+<!-- #### [同事 & 友情](main/colleague-and-friendship.md) todo -->
 
-#### [内向 & 外向](main/mind.md) todo
+<!-- #### [内向 & 外向](main/mind.md) todo -->
 
-#### [亲情](main/parentage.md) todo
+<!-- #### [亲情](main/parentage.md) todo -->
 
 ---
 
@@ -30,7 +30,7 @@
 
 #### [兼并收购](main/takeover.md)
 
-#### [零售业](main/retail.md) todo
+<!-- #### [零售业](main/retail.md) todo -->
 
 ---
 
@@ -68,7 +68,7 @@
 
 #### [病毒](main/virus.md)
 
-#### [虚拟世界](main/virtual-world.md)
+<!-- #### [虚拟世界](main/virtual-world.md) todo -->
 
 ---
 
@@ -110,11 +110,11 @@
 
 #### [新能源汽车](main/new-energy-vehicle.md)
 
-#### [自动驾驶](main/.md) todo
+<!-- #### [自动驾驶](main/.md) todo -->
 
-#### [比特币](_.md) todo
+<!-- #### [比特币](main/.md) todo -->
 
-#### [数字人民币](main/e-cny.md) todo
+<!-- #### [数字人民币](main/e-cny.md) todo -->
 
 #### [缩写 - 互联网](main/acronym-internet.md)
 
@@ -152,7 +152,7 @@
 
 #### [聊天](main/chat.md)
 
-#### [小说](main/novel.md) todo
+<!-- #### [小说](main/novel.md) todo -->
 
 ---
 
