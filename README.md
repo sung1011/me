@@ -48,37 +48,7 @@
 
 #### [防御机制](main/defence-mechanism.md)
 
----
-
-### BOOK
-
-#### [厌女](main/misogyny.md)
-
-#### [从零开始的女性主义](main/feminism-from-scratch.md)
-
-#### [男孩、鼹鼠、狐狸和马](main/the-boy-the-mole-the-fox-the-horse.md)
-
-#### [小王子](_.md) todo
-
-#### [老人与海](_.md) todo
-
-#### [你当像鸟飞往你的山](main/educated.md)
-
-#### [认知与设计 (designing with the mind in mind)](main/designing-with-the-mind-in-mind.md)
-
-#### [福尔摩斯探案集](_) todo
-
-#### [傲慢与偏见](_) todo
-
-#### [约翰克里斯朵夫](_) todo
-
-#### [心理学与生活](main/psychology-and-life.md) todo
-
-#### [被讨厌的勇气](main/courage-to-be-disliked.md)
-
-#### [共情的力量](main/the-power-of-empathy.md) todo
-
-#### [EVA](main/eva.md)
+#### [意识](main/consciousness.md)
 
 ---
 
@@ -97,6 +67,12 @@
 #### [心理创伤](main/faulty-trauma.md)
 
 #### [病毒](main/virus.md)
+
+#### [虚拟世界](main/virtual-world.md)
+
+---
+
+### FOOD
 
 ---
 
@@ -120,7 +96,7 @@
 
 <!-- #### [我](me.md) -->
 
-<!-- --- -->
+---
 
 ### WIKI
 
@@ -129,6 +105,8 @@
 #### [编程](https://github.com/sung1011/note)
 
 #### [金融](main/finance.md)
+
+#### [动物](main/animal.md)
 
 #### [新能源汽车](main/new-energy-vehicle.md)
 
@@ -143,6 +121,8 @@
 #### [数据指标 - 互联网](main/data-indicator-internet.md)
 
 #### [数据指标 - 零售业(线下)](main/data-indicator-retail-offline.md)
+
+#### [EVA](main/eva.md)
 
 ---
 
@@ -173,3 +153,9 @@
 #### [聊天](main/chat.md)
 
 #### [小说](main/novel.md) todo
+
+---
+
+### OTHERS
+
+#### [todo](main/todo.md)
