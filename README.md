@@ -86,6 +86,11 @@
 
 #### [莱昂纳多.达芬奇](Leonardo-da-Vinci.md)
 
+<!-- #### 荣格
+#### 阿德勒
+#### 弗洛伊德
+#### 尼采 -->
+
 <!-- #### [尼古拉.特斯拉 Nikola-Tesla](main/nikola-tesla.md) todo -->
 
 <!-- #### [埃隆.马斯克 Elon-Musk](main/elon-musk.md) todo -->
