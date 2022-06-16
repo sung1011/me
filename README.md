@@ -54,8 +54,6 @@
 
 ### BIOLOGY
 
-#### [补钙](main/calcium.md)
-
 #### [死亡](main/death.md)
 
 #### [遗传](main/genetic.md)
@@ -63,6 +61,8 @@
 #### [癌](main/cancer.md)
 
 #### [睡眠](main/sleep.md)
+
+#### [钙](main/calcium.md)
 
 #### [心理创伤](main/faulty-trauma.md)
 
@@ -73,6 +73,10 @@
 ---
 
 ### FOOD
+
+#### [咖啡](main/coffee.md)
+
+<!-- #### [鱼](fish.md) -->
 
 ---
 
@@ -85,6 +89,8 @@
 ### BIOGRAPHY
 
 #### [莱昂纳多.达芬奇](Leonardo-da-Vinci.md)
+
+#### [尼采](Friedrich-Nietzsche.md)
 
 <!-- #### 荣格
 #### 阿德勒
@@ -104,8 +110,6 @@
 ---
 
 ### WIKI
-
-#### [咖啡](main/coffee.md)
 
 #### [编程](https://github.com/sung1011/note)
 
@@ -129,6 +133,8 @@
 
 #### [EVA](main/eva.md)
 
+#### [wiki](main/wiki.md)
+
 ---
 
 ### SCIENCE
@@ -142,6 +148,8 @@
 #### [相对论](main/theory-of-relativity.md)
 
 #### [时间](main/time.md)
+
+<!-- #### [水](main/water.md) -->
 
 ---
 
