@@ -8,7 +8,7 @@
 
 #### [爱情 & 婚姻](main/love-and-marriage.md)
 
-#### [抑郁](main/depression.md)
+#### [抑郁](main/depressed.md)
 
 <!-- #### [消费观](main/consumption-concept.md) todo -->
 
@@ -67,6 +67,8 @@
 #### [心理创伤](main/faulty-trauma.md)
 
 #### [病毒](main/virus.md)
+
+#### [抑郁症](main/depression.md)
 
 <!-- #### [虚拟世界](main/virtual-world.md) todo -->
 
