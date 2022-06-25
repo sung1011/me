@@ -50,6 +50,8 @@
 
 #### [意识](main/consciousness.md)
 
+#### [语言](main/language.md)
+
 ---
 
 ### BIOLOGY
@@ -137,8 +139,6 @@
 
 #### [EVA](main/eva.md)
 
-#### [wiki](main/wiki.md)
-
 ---
 
 ### SCIENCE
@@ -154,6 +154,8 @@
 #### [时间](main/time.md)
 
 <!-- #### [水](main/water.md) -->
+
+#### [地球](main/earth.md)
 
 ---
 
@@ -176,3 +178,5 @@
 ### OTHERS
 
 #### [todo](main/todo.md)
+
+#### [wiki](main/wiki.md)
