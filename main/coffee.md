@@ -99,6 +99,8 @@
 ### 原理
 
 ```bash
+# TIPS: 咖啡在不困的时候喝效果最好
+
 # 腺苷 Adenosine : o
 # 咖啡因 Caffeine: x
 # 受体: [ ]
