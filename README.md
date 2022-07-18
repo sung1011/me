@@ -20,6 +20,8 @@
 
 <!-- #### [亲情](main/parentage.md) todo -->
 
+<!-- #### [游戏观](main/game-view.md) -->
+
 ---
 
 ### BUSINESS
@@ -51,6 +53,8 @@
 #### [意识](main/consciousness.md)
 
 #### [语言](main/language.md)
+
+#### [基督](main/christ.md)
 
 ---
 
@@ -102,8 +106,7 @@
 
 <!-- #### 荣格
 #### 阿德勒
-#### 弗洛伊德
-#### 尼采 -->
+#### 弗洛伊德 -->
 
 <!-- #### [尼古拉.特斯拉 Nikola-Tesla](main/nikola-tesla.md) todo -->
 
