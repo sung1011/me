@@ -104,7 +104,9 @@
 
 #### [尼采](Friedrich-Nietzsche.md)
 
-<!-- #### 荣格
+#### [荣格](Carl-Gustav-Jung.md)
+
+<!-- 
 #### 阿德勒
 #### 弗洛伊德 -->
 
