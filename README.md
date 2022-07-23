@@ -44,7 +44,7 @@
 
 #### [MBTI](main/mbti.md)
 
-<!-- #### [多巴胺](main/dopamine.md) todo -->
+#### [多巴胺](main/dopamine.md)
 
 <!-- #### [记忆](main/memory.md) todo -->
 
