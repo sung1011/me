@@ -146,6 +146,8 @@
 
 #### [EVA](main/eva.md)
 
+#### [星座](main/constellation.md)
+
 ---
 
 ### SCIENCE
@@ -163,6 +165,8 @@
 <!-- #### [水](main/water.md) -->
 
 #### [地球](main/earth.md)
+
+#### [能源](main/energy.md)
 
 ---
 
