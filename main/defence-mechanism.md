@@ -67,7 +67,7 @@
 
 ---
 
-## 压抑 repression/
+## 压抑 repression
 
 ```bash
 # repression 压抑
