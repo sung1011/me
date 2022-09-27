@@ -100,11 +100,11 @@
 
 ### BIOGRAPHY
 
-#### [莱昂纳多.达芬奇](Leonardo-da-Vinci.md)
+#### [莱昂纳多.达芬奇](main/Leonardo-da-Vinci.md)
 
-#### [尼采](Friedrich-Nietzsche.md)
+#### [尼采](main/Friedrich-Nietzsche.md)
 
-#### [荣格](Carl-Gustav-Jung.md)
+#### [荣格](main/Carl-Gustav-Jung.md)
 
 <!-- 
 #### 阿德勒
@@ -165,6 +165,8 @@
 <!-- #### [水](main/water.md) -->
 
 #### [地球](main/earth.md)
+
+#### [木星](main/jupiter.md)
 
 #### [能源](main/energy.md)
 
