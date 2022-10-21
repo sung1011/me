@@ -56,6 +56,8 @@
 
 #### [基督](main/christ.md)
 
+#### [性别](main/sex.md)
+
 ---
 
 ### BIOLOGY
