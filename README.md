@@ -174,6 +174,12 @@
 
 ---
 
+### GAME
+
+#### [宝可梦](main/pokemon.md)
+
+---
+
 ### FAITH
 
 #### [369](main/369.md)
