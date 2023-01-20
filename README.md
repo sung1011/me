@@ -178,6 +178,8 @@
 
 #### [宝可梦](main/pokemon.md)
 
+#### [melvor idle](main/melvor-idle.md)
+
 ---
 
 ### FAITH
@@ -201,3 +203,5 @@
 #### [todo](main/todo.md)
 
 #### [wiki](main/wiki.md)
+
+#### [en](main/en.md)
