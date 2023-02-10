@@ -1,12 +1,12 @@
 # 元素 elements
 
-```bash
+```js
     todo
 ```
 
 ## 鉲 cf
 
-```bash
+```js
 # origin
     加利福尼亚的加州大学发现, 所以叫cf
 
