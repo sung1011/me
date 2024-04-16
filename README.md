@@ -178,6 +178,12 @@
 
 ---
 
+### TECHNOLOGY
+
+#### [人工智能 AI](main/artificial-intelligence.md)
+
+---
+
 ### GAME
 
 #### [宝可梦](main/pokemon.md)
