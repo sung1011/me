@@ -182,6 +182,8 @@
 
 #### [人工智能 AI](main/artificial-intelligence.md)
 
+#### [算法 algorithm](main/algorithm.md)
+
 ---
 
 ### GAME
