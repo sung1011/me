@@ -4,7 +4,7 @@
 
     给计算机看猫和狗的图片, 并标记指引正确答案
 
-## `非监督学习 unsupervised learning` 有数据, 无标签
+## [`非监督学习 unsupervised learning`](unsupervised-learning.md) 有数据, 无标签
 
     给计算机看猫和狗的图片, 让其自己总结分类
 
