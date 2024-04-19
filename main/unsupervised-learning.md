@@ -47,3 +47,7 @@
 - [SVD] 奇异值分解
 
       通过分解数据矩阵, 将数据映射到低维空间
+
+## 相关
+
+- [machine learning](machine-learning.md) 机器学习
