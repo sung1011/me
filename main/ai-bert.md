@@ -11,38 +11,45 @@
     如通过训练 "树上掉下来的[苹果]可以做成好喝的果汁". 今后遇到 树, 果汁, 好喝 就会提高推断出[mask]为苹果的概率.
 
 1. 输入句子：
-"The cat sat on the [MASK]."
+
+         "The cat sat on the [MASK]."
 
 2. BERT 模型：
-+-------------------+
-|                   |
-|     BERT Model    |
-|                   |
-+-------------------+
+
+         +-------------------+
+         |                   |
+         |     BERT Model    |
+         |                   |
+         +-------------------+
 
 3. 预测的单词：
-"mat"
+
+         "mat"
 
 4. 上下文信息：
-"The cat sat on the"
+
+         "The cat sat on the"
 
 ### BERT NSP
 
     Next Sentence Prediction, 通过上下文预测两个句子是否有关联
 
 1. 输入句子对：
-Sentence A: "The cat sat on the mat."
-Sentence B: "It was comfortable."
+
+         Sentence A: "The cat sat on the mat."
+         Sentence B: "It was comfortable."
 
 2. BERT 模型：
-+-------------------+
-|                   |
-|     BERT Model    |
-|                   |
-+-------------------+
+
+         +-------------------+
+         |                   |
+         |     BERT Model    |
+         |                   |
+         +-------------------+
 
 3. 预测结果：
-"Is Sentence B the next sentence of Sentence A? Yes"
+
+         "Is Sentence B the next sentence of Sentence A? Yes"
 
 ## 预训练任务 微调阶段
 
@@ -51,34 +58,40 @@ Sentence B: "It was comfortable."
     判断一句话是积极还是消极
 
 1. 输入句子：
-"I love this product! It's amazing!"
+
+         "I love this product! It's amazing!"
 
 2. BERT 模型：
-+-------------------+
-|                   |
-|     BERT Model    |
-|                   |
-+-------------------+
+
+         +-------------------+
+         |                   |
+         |     BERT Model    |
+         |                   |
+         +-------------------+
 
 3. 预测结果：
-Positive
+
+         Positive
 
 ### case 2 分析句中单词的词性
 
     判断一句话中每个词的词性
 
 1. 输入句子：
-"The cat sat on the mat."
+
+         "The cat sat on the mat."
 
 2. BERT 模型：
-+-------------------+
-|                   |
-|     BERT Model    |
-|                   |
-+-------------------+
+
+         +-------------------+
+         |                   |
+         |     BERT Model    |
+         |                   |
+         +-------------------+
 
 3. 预测结果：
-The (Det), cat (Noun), sat (Verb), on (Prep), the (Det), mat (Noun)
+
+         The (Det), cat (Noun), sat (Verb), on (Prep), the (Det), mat (Noun)
 
 ### case 3 输入2个句子 输出1个类别
 
@@ -89,17 +102,21 @@ The (Det), cat (Noun), sat (Verb), on (Prep), the (Det), mat (Noun)
     输入文档和问题, 输出答案, 答案是文档中的一个词或一句话
 
 1. 输入文档：
-"Albert Einstein was a German-born theoretical physicist. He developed the theory of relativity."
+
+         "Albert Einstein was a German-born theoretical physicist. He developed the theory of relativity."
 
 2. 输入问题：
-"Who developed the theory of relativity?"
+
+         "Who developed the theory of relativity?"
 
 3. BERT 模型：
-+-------------------+
-|                   |
-|     BERT Model    |
-|                   |
-+-------------------+
+
+         +-------------------+
+         |                   |
+         |     BERT Model    |
+         |                   |
+         +-------------------+
 
 4. 预测结果：
-"Albert Einstein"
+
+         "Albert Einstein"
