@@ -24,17 +24,17 @@
 
 将高维数据映射到低维空间，以便更好地可视化和理解数据。
 
-- [principal component analysis PCA](algo-pca.md) 主成分分析
+- [PCA](algo-pca.md) 主成分分析 principal component analysis
 
       通过线性变换将数据投影到低维空间, 保留最大方差的方向作为主成分
 
-- [t-SNE](algo-t-sne.md) t分布随机邻域嵌入
-
-      通过保留高维数据点之间的相似度关系, 将数据映射到低维空间
-
-- [MDS](algo-mds.md) 多维缩放
+- [MDS](algo-mds.md) 多维缩放 multi-dimensional scaling
 
       通过保留高维数据点之间的距离关系, 将数据映射到低维空间
+
+- [t-SNE] t分布邻域嵌入 t-Distributed Stochastic Neighbor Embedding
+
+      通过保留高维数据点之间的相似度关系, 将数据映射到低维空间
 
 - [LDA] 线性判别分析
 
