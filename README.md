@@ -34,6 +34,8 @@
 
 <!-- #### [零售业](main/retail.md) todo -->
 
+#### [显示器](main/display.md)
+
 ---
 
 ### IDEOLOGY
