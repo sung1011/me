@@ -102,6 +102,19 @@
 | I can't help it    | 我情不自禁,忍不住       | I can't help it, I can't control myself                 | I can't stop myself(我无法停止自己); I have no control(我无法控制)                    |
 | I don't mean it    | 我不是故意的            | I don't mean it, I didn't intend to hurt you            | I didn't mean to(我不是故意的); I didn't mean that(我不是那个意思)                    |
 | I'll fix you up    | 我会帮你搞定            | I'll fix you up, I'll help you out                      | I'll sort it out for you(我会为你解决); I'll take care of it(我会照顾好它)            |
+| It sounds great    | 听起来不错              | It sounds great, I like it                              | It sounds good(听起来好); It was great(那事实上很棒)                                  |
+| It's a fine day    | 今天天气很好            | It's a fine day, the weather is nice                    | It's a beautiful day(今天天气很美); It's a lovely day(今天天气很可爱)                 |
+| so far, so good    | 到目前为止还不错        | so far, so good, everything is fine                     | everything is going well(一切都很好); things are going well(事情进展顺利)             |
+| what time is it?   | 现在几点了?             | what time is it, do you have the time?                  | can you tell me the time(你能告诉我时间吗); what's the time(几点了 特指上下文)        |
+| you can make it    | 你能做到的              | you can make it, you can do it                          | you can achieve it(你可以实现它); you can succeed(你可以成功)                         |
+| control yourself   | 克制一下                | control yourself, keep calm                             | stay composed(保持冷静); maintain your composure(保持镇定)                            |
+| he came by train   | 他坐火车来的            | he came by train, he traveled by train                  | he took the train(他乘坐火车); he arrived by train(他乘火车到达)                      |
+| he is ill in bed   | 他卧病在床              | he is ill in bed, he is sick in bed                     | he is unwell(他身体不舒服); he is not feeling well(他感觉不舒服)                      |
+| he lacks courage   | 他缺乏勇气(好意开脱)    | he just lacks courage                                   | he is timid(他胆小); he is cowardly(他懦弱)                                           |
+| how's everything?  | 一切都好吗?             | how's everything, how are things going?                 | how are you doing(你过得怎么样); how's life(生活怎么样)                               |
+
+
+
 
 
 
